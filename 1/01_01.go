@@ -1,4 +1,4 @@
-package main
+package day1
 
 import (
 	"fmt"
@@ -8,8 +8,9 @@ import (
 	"strings"
 )
 
-func main() {
-	input, err := ioutil.ReadFile("./input.txt")
+//DayOneOne Day one task one
+func DayOneOne() {
+	input, err := ioutil.ReadFile("./1/input.txt")
 
 	if err != nil {
 		fmt.Println(err)
