@@ -7,7 +7,7 @@ import (
 	"strings"
 )
 
-// DayThreOne Day 3
+// DayThreeOne Day 3 task one
 func DayThreeOne() {
 	input, err := ioutil.ReadFile("./3/input.txt")
 
