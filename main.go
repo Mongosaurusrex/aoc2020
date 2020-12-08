@@ -5,8 +5,9 @@ import (
 	day2 "./2"
 	day3 "./3"
 	day4 "./4"
-	day5 "./5"*/
-	day6 "./6"
+	day5 "./5"
+	day6 "./6"*/
+	day8 "./8"
 )
 
 func main() {
@@ -20,6 +21,8 @@ func main() {
 	day4.DayFourTwo()
 	day5.DayFiveOne()
 	day5.DayFiveTwo()
-	day6.DaySixOne()*/
+	day6.DaySixOne()
 	day6.DaySixTwo()
+	day8.DayEightOne()*/
+	day8.DayEightTwo()
 }
